@@ -1,6 +1,5 @@
 ## 👋Hi there, I'm Eniserije Mosopeluwa Daniel
 
-👋 Hey there, I'm Daniel!
 🎓 A Computer Engineering student at Obafemi Awolowo University (OAU), Nigeria
 🤖 Aspiring AI/ML Engineer with a passion for building intelligent systems that solve real-world problems
 🧠 Exploring the fields of Artificial Intelligence, Machine Learning, Deep Learning, and Data Science
