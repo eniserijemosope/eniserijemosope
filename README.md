@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋Hi there, I'm Eniserije Mosopeluwa Daniel
 
-<!--
-**eniserijemosope/eniserijemosope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey there, I'm Daniel!
+🎓 A Computer Engineering student at Obafemi Awolowo University (OAU), Nigeria
+🤖 Aspiring AI/ML Engineer with a passion for building intelligent systems that solve real-world problems
+🧠 Exploring the fields of Artificial Intelligence, Machine Learning, Deep Learning, and Data Science
+💻 Currently working with Python, TensorFlow, scikit-learn, and Pandas
+🚀 On a mission to master AI system design, contribute to open-source AI projects, and land a fully funded Master’s in AI/ML
+📈 Learning every day to become a world-class engineer
 
-Here are some ideas to get you started:
+🔧 Tech Stack & Tools
+🐍 Python, NumPy, Pandas, scikit-learn
+🧠 TensorFlow, PyTorch, Jupyter Notebooks
+🌐 Git, GitHub, Google Colab, VS Code
+📊 Matplotlib, Seaborn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me:
+📧 Email: eniserijemosope@gmail.com
+🔗 LinkedIn: eniserijemosope
+🐙 GitHub: github.com/eniserijemosopefoluwa
+
